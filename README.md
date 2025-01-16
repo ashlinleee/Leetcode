@@ -19,4 +19,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/ashlinleee/Leetcode/tree/master/1916-find-center-of-star-graph) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ashlinleee/Leetcode/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ashlinleee/Leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ashlinleee/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
