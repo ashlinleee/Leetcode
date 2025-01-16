@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ashlinleee/Leetcode/tree/master/0392-is-subsequence) |
+| [1236-n-th-tribonacci-number](https://github.com/ashlinleee/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Graph
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ashlinleee/Leetcode/tree/master/0231-power-of-two) |
+| [1236-n-th-tribonacci-number](https://github.com/ashlinleee/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ashlinleee/Leetcode/tree/master/0231-power-of-two) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/ashlinleee/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
