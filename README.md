@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ashlinleee/Leetcode/tree/master/0392-is-subsequence) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/ashlinleee/Leetcode/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
