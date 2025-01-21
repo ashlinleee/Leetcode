@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/ashlinleee/Leetcode/tree/master/1916-find-center-of-star-graph) |
+| [3189-find-champion-ii](https://github.com/ashlinleee/Leetcode/tree/master/3189-find-champion-ii) |
 ## Math
 |  |
 | ------- |
