@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ashlinleee/Leetcode/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/ashlinleee/Leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -61,4 +62,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ashlinleee/Leetcode/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ashlinleee/Leetcode/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ashlinleee/Leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ashlinleee/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
