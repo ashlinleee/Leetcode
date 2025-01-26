@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/ashlinleee/Leetcode/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/ashlinleee/Leetcode/tree/master/0268-missing-number) |
+| [0355-design-twitter](https://github.com/ashlinleee/Leetcode/tree/master/0355-design-twitter) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,12 +67,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ashlinleee/Leetcode/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/ashlinleee/Leetcode/tree/master/0355-design-twitter) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ashlinleee/Leetcode/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/ashlinleee/Leetcode/tree/master/0355-design-twitter) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ashlinleee/Leetcode/tree/master/0146-lru-cache) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/ashlinleee/Leetcode/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
