@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/ashlinleee/Leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/ashlinleee/Leetcode/tree/master/0392-is-subsequence) |
 ## String
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ashlinleee/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/ashlinleee/Leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
