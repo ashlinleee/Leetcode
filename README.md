@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ashlinleee/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/ashlinleee/Leetcode/tree/master/0049-group-anagrams) |
 | [0392-is-subsequence](https://github.com/ashlinleee/Leetcode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
@@ -45,11 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ashlinleee/Leetcode/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/ashlinleee/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ashlinleee/Leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ashlinleee/Leetcode/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/ashlinleee/Leetcode/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/ashlinleee/Leetcode/tree/master/0268-missing-number) |
 | [0355-design-twitter](https://github.com/ashlinleee/Leetcode/tree/master/0355-design-twitter) |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ashlinleee/Leetcode/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/ashlinleee/Leetcode/tree/master/0268-missing-number) |
 ## Trie
 |  |
