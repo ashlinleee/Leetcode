@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ashlinleee/Leetcode/tree/master/0049-group-anagrams) |
+| [0200-number-of-islands](https://github.com/ashlinleee/Leetcode/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/ashlinleee/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ashlinleee/Leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -94,13 +95,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ashlinleee/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ashlinleee/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ashlinleee/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ashlinleee/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/ashlinleee/Leetcode/tree/master/0226-invert-binary-tree) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ashlinleee/Leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ashlinleee/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
