@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashlinleee/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/ashlinleee/Leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/ashlinleee/Leetcode/tree/master/0392-is-subsequence) |
 ## String
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ashlinleee/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ashlinleee/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashlinleee/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ashlinleee/Leetcode/tree/master/0049-group-anagrams) |
 | [0392-is-subsequence](https://github.com/ashlinleee/Leetcode/tree/master/0392-is-subsequence) |
 | [1524-string-matching-in-an-array](https://github.com/ashlinleee/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -134,5 +136,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashlinleee/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1524-string-matching-in-an-array](https://github.com/ashlinleee/Leetcode/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
