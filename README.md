@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ashlinleee/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/ashlinleee/Leetcode/tree/master/0049-group-anagrams) |
 | [0392-is-subsequence](https://github.com/ashlinleee/Leetcode/tree/master/0392-is-subsequence) |
+| [1524-string-matching-in-an-array](https://github.com/ashlinleee/Leetcode/tree/master/1524-string-matching-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ashlinleee/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ashlinleee/Leetcode/tree/master/0283-move-zeroes) |
 | [0695-max-area-of-island](https://github.com/ashlinleee/Leetcode/tree/master/0695-max-area-of-island) |
+| [1524-string-matching-in-an-array](https://github.com/ashlinleee/Leetcode/tree/master/1524-string-matching-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ashlinleee/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/ashlinleee/Leetcode/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
