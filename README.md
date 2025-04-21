@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ashlinleee/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/ashlinleee/Leetcode/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/ashlinleee/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/ashlinleee/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Graph
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/ashlinleee/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ashlinleee/Leetcode/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/ashlinleee/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/ashlinleee/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
@@ -46,9 +48,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ashlinleee/Leetcode/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/ashlinleee/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/ashlinleee/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/ashlinleee/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Array
 |  |
