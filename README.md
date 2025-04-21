@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ashlinleee/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ashlinleee/Leetcode/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/ashlinleee/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ashlinleee/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashlinleee/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/ashlinleee/Leetcode/tree/master/0392-is-subsequence) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ashlinleee/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ashlinleee/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/ashlinleee/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ashlinleee/Leetcode/tree/master/0268-missing-number) |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/ashlinleee/Leetcode/tree/master/0415-add-strings) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ashlinleee/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
