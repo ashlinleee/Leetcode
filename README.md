@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashlinleee/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ashlinleee/Leetcode/tree/master/0049-group-anagrams) |
 | [0392-is-subsequence](https://github.com/ashlinleee/Leetcode/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/ashlinleee/Leetcode/tree/master/0415-add-strings) |
 | [1524-string-matching-in-an-array](https://github.com/ashlinleee/Leetcode/tree/master/1524-string-matching-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/ashlinleee/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ashlinleee/Leetcode/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/ashlinleee/Leetcode/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/ashlinleee/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/ashlinleee/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Bit Manipulation
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashlinleee/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1524-string-matching-in-an-array](https://github.com/ashlinleee/Leetcode/tree/master/1524-string-matching-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/ashlinleee/Leetcode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
