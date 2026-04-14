@@ -1,14 +1,36 @@
 class Solution {
     public List<Integer> preorderTraversal(TreeNode root) {
         List<Integer> result = new ArrayList<>();
-        preorder(root, result);
-        return result;
-    }
-    void preorder(TreeNode root, List<Integer> result) {
-        if (root == null) return;
+        TreeNode curr = root;
 
-        result.add(root.val);      // Root
-        preorder(root.left, result);  // Left
-        preorder(root.right, result); // Right
+        while (curr != null) {
+
+            // Case 1: No left child
+            if (curr.left == null) {
+                result.add(curr.val);   // visit
+                curr = curr.right;
+            } 
+            else {
+                TreeNode prev = curr.left;
+
+                // Find inorder predecessor
+                while (prev.right != null && prev.right != curr) {
+                    prev = prev.right;
+                }
+
+                // First time visit → create thread
+                if (prev.right == null) {
+                    result.add(curr.val);  // visit
+                    prev.right = curr;
+                    curr = curr.left;
+                } 
+                // Second time → remove thread + visit
+                else {
+                    prev.right = null;
+                    curr = curr.right;
+                }
+            }
+        }
+        return result;
     }
 }
